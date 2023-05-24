@@ -7,7 +7,7 @@ import os
 import csv
 import scipy.stats as stats
 
-
+"""
 xColumn = []
 yColumn = []
 AngleColumn = []
@@ -15,7 +15,7 @@ PointColumn = []
 x1Column = []
 y1Column = []
 
-"""
+
 # Open the respective file that you want to clean up.
 with open('Test30.txt', 'r') as f:
     # Create a CSV reader object
